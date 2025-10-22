@@ -1,6 +1,8 @@
 #   Maike Belfiori Alves
+# Hello, beginner in the field of programming, getting to know the first languages and using new tools.
 ## Curso
->.**Engenharia de Software (2025-)**
+>.**Software Engineering (2025-)**
+## 
 
 
 
